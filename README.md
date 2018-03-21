@@ -3,7 +3,7 @@ Access to folder by available configuration file
 
 Open config file by a editor
 
-Config text in file follow format below:
+Format text in file follow format below:
 
 [INDENTIFY_CODE][SPACE][DIRECTORY]
 
